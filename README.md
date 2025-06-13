@@ -103,15 +103,3 @@ Se identifica el mejor clasificador según F1-Score macro.
 
 Se generan gráficos de calor (`heatmaps`) de las matrices de confusión para cada clasificador utilizando `matplotlib` y `seaborn`.
 
----
-
-## Créditos
-
-Proyecto desarrollado para la caracterización y clasificación de ofertas laborales en el ámbito de **Tecnologías de la Información**, como parte de un estudio académico en procesamiento de lenguaje natural y aprendizaje automático.
-
----
-
-## Contacto
-
-Adrián Maquitico Santana  
-[tu correo aquí]
